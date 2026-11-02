@@ -1,10 +1,10 @@
-# Gizlilik Politikası - QREX
+# Gizlilik Politikası - VezirQ
 
 **Son Güncelleme:** 15 Ekim 2026
 
 ## Giriş
 
-QREX ("biz", "uygulama"), kullanıcılarının gizliliğini ciddiye alır. Bu gizlilik politikası, QREX uygulamasının hangi bilgileri topladığını, nasıl kullandığını ve koruduğunu açıklar.
+VezirQ ("biz", "uygulama"), kullanıcılarının gizliliğini ciddiye alır. Bu gizlilik politikası, VezirQ uygulamasının hangi bilgileri topladığını, nasıl kullandığını ve koruduğunu açıklar.
 
 ## Toplanan Bilgiler
 
@@ -38,7 +38,7 @@ QREX ("biz", "uygulama"), kullanıcılarının gizliliğini ciddiye alır. Bu gi
 
 ## Veri Paylaşımı ve Üçüncü Taraf Servisler
 
-QREX, hiçbir kişisel veriyi üçüncü taraflarla paylaşmaz. Uygulama şu özelliklere sahiptir:
+VezirQ, hiçbir kişisel veriyi üçüncü taraflarla paylaşmaz. Uygulama şu özelliklere sahiptir:
 
 - ✅ **Tamamen Çevrimdışı Çalışır:** QR kod oluşturma ve tarama işlemleri cihazda yapılır
 - ✅ **Sunucu Yok:** Hiçbir merkezi sunucu kullanılmaz
@@ -61,7 +61,7 @@ Tüm QR kod geçmişi ve ayarlar cihazın yerel hafızasında saklanır:
 
 ## Çocukların Gizliliği
 
-QREX, 13 yaşından küçük çocuklardan bilerek kişisel bilgi toplamaz. Ebeveynler, çocuklarının uygulamayı kullanımını denetlemelidir.
+VezirQ, 13 yaşından küçük çocuklardan bilerek kişisel bilgi toplamaz. Ebeveynler, çocuklarının uygulamayı kullanımını denetlemelidir.
 
 ## Kullanıcı Hakları
 
@@ -103,15 +103,15 @@ Bu uygulama aşağıdaki düzenlemelere uygundur:
 
 ---
 
-**QREX**, kullanıcı gizliliğini korumaya kararlıdır. Tüm veriler cihazınızda kalır ve sizin kontrolünüzdedir.
+**VezirQ**, kullanıcı gizliliğini korumaya kararlıdır. Tüm veriler cihazınızda kalır ve sizin kontrolünüzdedir.
 
-# Privacy Policy - QREX
+# Privacy Policy - VezirQ
 
 **Last Updated:** October 15, 2026
 
 ## Introduction
 
-QREX ("we", "the app") takes the privacy of its users seriously. This privacy policy explains what information the QREX app collects, how it uses it, and how it protects it.
+VezirQ ("we", "the app") takes the privacy of its users seriously. This privacy policy explains what information the VezirQ app collects, how it uses it, and how it protects it.
 
 ## Information Collected
 
@@ -145,7 +145,7 @@ QREX ("we", "the app") takes the privacy of its users seriously. This privacy po
 
 ## Data Sharing and Third-Party Services
 
-QREX does not share any personal data with third parties. The app:
+VezirQ does not share any personal data with third parties. The app:
 
 - ✅ **Works Fully Offline:** QR code creation and scanning happen on-device
 - ✅ **No Servers:** No central servers are used
@@ -168,7 +168,7 @@ All QR code history and settings are stored in the device's local memory:
 
 ## Children's Privacy
 
-QREX does not knowingly collect personal information from children under 13. Parents should supervise their children's use of the app.
+VezirQ does not knowingly collect personal information from children under 13. Parents should supervise their children's use of the app.
 
 ## User Rights
 

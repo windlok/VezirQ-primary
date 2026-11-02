@@ -210,5 +210,5 @@ This app complies with the following regulations:
 
 ---
 
-**QREX** is committed to protecting user privacy. All data stays on your device and under your control.
+**VezirQ** is committed to protecting user privacy. All data stays on your device and under your control.
 
